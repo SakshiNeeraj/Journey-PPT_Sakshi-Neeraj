@@ -1,6 +1,10 @@
 # Journey-PPT_Sakshi-Neeraj
 This includes the journey PPT of the training sessions
 
+# Azure DevOps files
+TestCasesHRM.xlsx contains test case report
+DefectReport.xlsx contains the defects discovered
+Document.txt contains all the screenshots of the workflow
 
 # Github Actions Workflow
 This workflow automatically build our Python code to calculayte BMI of a person. 
